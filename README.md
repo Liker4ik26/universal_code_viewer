@@ -8,7 +8,7 @@ A powerful, customizable Universal Code Viewer for Flutter that supports 50+ pro
 [![license](https://img.shields.io/github/license/codefusionbit/universal_code_viewer)](LICENSE)
 
 <a href="https://codefusionbit.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/codefusionbit.jpg" alt="Code Fusion Bit" />
+  <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/codefusionbit.jpg" alt="Code Fusion Bit" />
 </a>
 
 ## Features
@@ -32,17 +32,17 @@ A powerful, customizable Universal Code Viewer for Flutter that supports 50+ pro
 ### Mobile iOS
 | Light Theme                                                                                                   | Dark Theme                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/ios_light.png" alt="iOS Light Theme" width="300"/> | <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/ios_dark.png" alt="iOS Dark Theme" width="300"/> |
+| <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/ios_light.png" alt="iOS Light Theme" width="300"/> | <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/ios_dark.png" alt="iOS Dark Theme" width="300"/> |
 
 ### Mobile Android
 | Light Theme                                                                                                       | Dark Theme                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/android_light.png" alt="Android Light Theme" width="300"/> | <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/android_dark.png" alt="Android Dark Theme" width="300"/> |
+| <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/android_light.png" alt="Android Light Theme" width="300"/> | <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/android_dark.png" alt="Android Dark Theme" width="300"/> |
 
 ### Web
 | Light Theme                                                                                                   | Dark Theme                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/web_light.png" alt="Web Light Theme" width="300"/> | <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/web_dark.png" alt="Web Dark Theme" width="300"/> |
+| <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/web_light.png" alt="Web Light Theme" width="300"/> | <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/web_dark.png" alt="Web Dark Theme" width="300"/> |
 
 ## Installation
 
