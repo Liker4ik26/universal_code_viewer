@@ -43,8 +43,6 @@ flutter:
         pluginClass: UniversalCodeViewerPlugin
       ios:
         pluginClass: UniversalCodeViewerPlugin
-      linux:
-        pluginClass: UniversalCodeViewerPlugin
       windows:
         pluginClass: UniversalCodeViewerPluginCApi
       web:
