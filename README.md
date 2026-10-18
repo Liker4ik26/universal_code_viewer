@@ -1,3 +1,12 @@
+![Universal Code Viewer fork](docs/fork-cover.svg)
+
+> **Форк / Fork.** Исходный проект — [codefusionbitllp/universal_code_viewer](https://github.com/codefusionbitllp/universal_code_viewer).
+> Репозиторий находится в профиле Анжелики Семёновой как форк. Авторство исходной библиотеки, лицензия и документация сохранены. Собственная разработка библиотеки здесь не заявляется.
+
+[Портфолио Анжелики Семёновой](https://portfolio.semenova-anzhelika.online/) · [Оригинальный проект](https://github.com/codefusionbitllp/universal_code_viewer)
+
+---
+
 # Universal Code Viewer
 
 A powerful, customizable Universal Code Viewer for Flutter that supports 50+ programming languages and multiple themes. Built for performance and extensibility.
@@ -429,4 +438,3 @@ Please report security issues to security@codefusionbit.com.
 ## Made with ❤️ by the CodeFusionBit Team
 
 If you like this package, please give it a ⭐️ on GitHub!
-
